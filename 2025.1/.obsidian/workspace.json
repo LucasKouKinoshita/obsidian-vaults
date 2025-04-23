@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "8e7364a6f740f4c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2f68f83528dd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9c377a44c24c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EngSoftwareVault/02-processos/02-processos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-processos"
+            }
+          },
+          {
+            "id": "b7e88423f41d74ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EngSoftwareVault/02-processos/02-processos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-processos"
+            }
+          },
+          {
+            "id": "16990a37e2e84124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EngSoftwareVault/02-processos/02-processos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-processos"
+            }
+          },
+          {
+            "id": "71c1932e180c415f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EngSoftwareVault/02-processos/02-processos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-processos"
+            }
+          },
+          {
+            "id": "ea1a45f865ebcb5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EngSoftwareVault/04-modelos/Diagramas de Classe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagramas de Classe"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a83c14357fdfae53",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a178a2be03f9500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "769f9dbb9c508c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc87c5331b824013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c25600dcd96740e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa9ba06a5fd8bd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "153b0f169127baa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdffd8549534cca2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EngSoftwareVault/01-introducao.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-introducao"
+            }
+          },
+          {
+            "id": "11da58eae6cc1595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EngSoftwareVault/01-introducao.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-introducao"
+            }
+          },
+          {
+            "id": "81afb7c6e2d40c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9912bf5b134ed400",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EngSoftwareVault/01-introducao.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-introducao"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea1a45f865ebcb5f",
+  "lastOpenFiles": [
+    "EngSoftwareVault.zip",
+    "EngSoftwareVault/04-modelos/Fundamentos da UML.md",
+    "EngSoftwareVault/04-modelos/Diagramas de pacotes.md",
+    "EngSoftwareVault/04-modelos/Ferramentas CASE.md",
+    "EngSoftwareVault/04-modelos/04-modelos.md",
+    "EngSoftwareVault/03-requisitos/Testes AB.md",
+    "EngSoftwareVault/03-requisitos/Produto Mínimo Viável (MVP).md",
+    "EngSoftwareVault/03-requisitos/images/Pasted image 20250406221131.png",
+    "EngSoftwareVault/02-processos/02-processos.md",
+    "EngSoftwareVault/02-processos/DevOps.md",
+    "EngSoftwareVault/02-processos/Extreme Programming (XP).md",
+    "EngSoftwareVault/02-processos/Kanban.md",
+    "EngSoftwareVault/02-processos/Lean Software Development.md",
+    "EngSoftwareVault/02-processos/Manifesto Ágil.md",
+    "EngSoftwareVault/02-processos/Modelos Tradicionais de Processo.md",
+    "EngSoftwareVault/02-processos/Scrum.md",
+    "EngSoftwareVault/02-processos/Waterfall.md",
+    "EngSoftwareVault/02-processos/Métricas de Processo.md",
+    "EngSoftwareVault/02-processos/Seleção de Processos.md",
+    "EngSoftwareVault/03-requisitos/Histórias de Usuário.md",
+    "EngSoftwareVault/03-requisitos/Casos de Uso.md",
+    "EngSoftwareVault/04-modelos/Diagramas de Caso de Uso.md",
+    "EngSoftwareVault/04-modelos/images",
+    "EngSoftwareVault/04-modelos/images/Pasted image 20250406215508.png",
+    "EngSoftwareVault/03-requisitos/Validação e Verificação.md",
+    "EngSoftwareVault/03-requisitos/Engenharia e Elicitação de Requisitos.md",
+    "EngSoftwareVault/03-requisitos/03-requisitos.md",
+    "EngSoftwareVault/03-requisitos/Gerenciamento de Mudanças.md",
+    "EngSoftwareVault/03-requisitos/Priorização de Requisitos.md",
+    "EngSoftwareVault/03-requisitos/images",
+    "EngSoftwareVault/03-requisitos/images/Pasted image 20250406201835.png",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250406192419.png",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405173456.png",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405173036.png",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405172753.png",
+    "EngSoftwareVault/02-processos/images",
+    "02-processos",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405155743.png",
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405155719.png",
+    "EngSoftwareVaul/02-processos",
+    "EngSoftwareVaul",
+    "TecQualVault/Resource/Introd_Tec_da Qualidade_Parte1_revA.pdf",
+    "TecQualVault/Resource",
+    "Testes A"
+  ]
+}

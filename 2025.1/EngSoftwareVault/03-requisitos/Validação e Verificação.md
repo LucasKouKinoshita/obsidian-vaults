@@ -1,0 +1,11 @@
+Requisitos devem estar 
+- corretos
+	- Devem retratar corretamente as necessidades do cliente
+- precisos
+	- sem ambiguidade
+- Completos
+	- Não podem esquecer de especificar certos requisitos
+- Consistentes
+	- Stakeholders não podem afirmar requisitos diferentes entre si
+- Verificáveis
+	- deve ser possível testar se os requisitos estão sendo atendidos

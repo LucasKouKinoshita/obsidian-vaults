@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "066616fd13c9b2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e5e37452d6c673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b2ed25bc6e7e61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88952ca07c690595",
+    "type": "split",
+    "children": [
+      {
+        "id": "c26a57d4750945f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d48511fd5cd4af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e8a49d637494910",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0bc9170fe6d221f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36d0e458d4447cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7ba93aaead7af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841b5e6743637f07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7140cc8abebab1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b1892b52b21be099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "520481f41ae44675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94b2ed25bc6e7e61",
+  "lastOpenFiles": [
+    "10-topicos-avancados.md",
+    "Encapsulamento.md",
+    "01-introducao.md",
+    "Evolução Histórica.md",
+    "Definição de Engenharia de Software.md",
+    "02-processos.md",
+    "Modelos Tradicionais de Processo.md",
+    "Ciclo de Vida do Software.md",
+    "roadmap.md",
+    "09-metricas.md",
+    "08-refatoracao.md",
+    "07-testes.md",
+    "06-padroes-de-projeto.md",
+    "05-principios-de-projeto.md",
+    "04-modelos.md",
+    "03-requisitos.md",
+    "index.md",
+    "Welcome.md",
+    "Resource",
+    "Notes"
+  ]
+}
