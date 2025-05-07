@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EngSoftwareVault/02-processos/02-processos.md",
+                "file": "TecQualVault/01-Conceitos-Iniciais/Trilogia da Qualidade de Juran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-processos"
-            }
-          },
-          {
-            "id": "ea1a45f865ebcb5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EngSoftwareVault/04-modelos/Diagramas de Classe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagramas de Classe"
+              "title": "Trilogia da Qualidade de Juran"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,51 +211,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea1a45f865ebcb5f",
+  "active": "71c1932e180c415f",
   "lastOpenFiles": [
-    "EngSoftwareVault.zip",
-    "EngSoftwareVault/04-modelos/Fundamentos da UML.md",
-    "EngSoftwareVault/04-modelos/Diagramas de pacotes.md",
-    "EngSoftwareVault/04-modelos/Ferramentas CASE.md",
-    "EngSoftwareVault/04-modelos/04-modelos.md",
-    "EngSoftwareVault/03-requisitos/Testes AB.md",
-    "EngSoftwareVault/03-requisitos/Produto Mínimo Viável (MVP).md",
+    "TecQualVault/images/Pasted image 20250506200613.png",
+    "TecQualVault/01-Conceitos-Iniciais/README.md",
+    "TecQualVault/01-Conceitos-Iniciais/Princípios Gerais para a Gestão da Qualidade.md",
+    "TecQualVault/01-Conceitos-Iniciais/Visão tradicional versus Visão da qualidade total.md",
+    "TecQualVault/01-Conceitos-Iniciais/Visões sobre a Qualidade.md",
+    "TecQualVault/01-Conceitos-Iniciais/Delimitando o termo Gestão da Qualidade.md",
+    "TecQualVault/01-Conceitos-Iniciais/Dimensões da Qualidade.md",
+    "TecQualVault/01-Conceitos-Iniciais/Visão histórica da Qualidade.md",
+    "TecQualVault/images/Pasted image 20250506190544.png",
+    "TecQualVault/images",
+    "TecQualVault/10-Zero-Quality-Control/Auto-verificação e verificação sucessiva.md",
+    "TecQualVault/10-Zero-Quality-Control/README.md",
+    "TecQualVault/10-Zero-Quality-Control/Abordagens para Inspeção nos processos produtivos.md",
+    "TecQualVault/10-Zero-Quality-Control/Inspeção 100% vs Controle Estatístico de Processo.md",
+    "TecQualVault/10-Zero-Quality-Control/Erros versus Defeitos.md",
+    "TecQualVault/10-Zero-Quality-Control/Visões acerca da Inspeção.md",
+    "TecQualVault/09-Controle-da-Qualidade/Avaliação da qualidade do produto.md",
+    "TecQualVault/09-Controle-da-Qualidade/README.md",
+    "TecQualVault/10-Zero-Quality-Control/Causas de erros humanos.md",
+    "TecQualVault/09-Controle-da-Qualidade/Conceito de dominância no controle.md",
+    "TecQualVault/09-Controle-da-Qualidade/Uso de indicadores para monitoramento.md",
+    "TecQualVault/09-Controle-da-Qualidade/Ciclo PDCA para Controle da Qualidade.md",
+    "TecQualVault/09-Controle-da-Qualidade/Processo Produtivo e suas características.md",
+    "TecQualVault/09-Controle-da-Qualidade/Controle da Qualidade em diferentes momentos.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/README.md",
+    "TecQualVault/08-Padronizacao/Blueprinting ou Diagrama de Serviço.md",
+    "TecQualVault/08-Padronizacao/README.md",
+    "TecQualVault/08-Padronizacao/Fluxograma como ferramenta de padronização.md",
+    "TecQualVault/10-Zero-Quality-Control",
+    "TecQualVault/09-Controle-da-Qualidade",
+    "TecQualVault/08-Padronizacao",
+    "TecQualVault/07-Qualidade-e-Produtividade",
+    "TecQualVault/06-Garantias-de-Servico",
+    "TecQualVault/05-Recuperacao-do-Servico",
+    "TecQualVault/04-Lacunas-da-Qualidade",
+    "TecQualVault/03-Avaliacao-dos-Servicos",
+    "TecQualVault/02-Servico-e-Caracteristicas",
     "EngSoftwareVault/03-requisitos/images/Pasted image 20250406221131.png",
-    "EngSoftwareVault/02-processos/02-processos.md",
-    "EngSoftwareVault/02-processos/DevOps.md",
-    "EngSoftwareVault/02-processos/Extreme Programming (XP).md",
-    "EngSoftwareVault/02-processos/Kanban.md",
-    "EngSoftwareVault/02-processos/Lean Software Development.md",
-    "EngSoftwareVault/02-processos/Manifesto Ágil.md",
-    "EngSoftwareVault/02-processos/Modelos Tradicionais de Processo.md",
-    "EngSoftwareVault/02-processos/Scrum.md",
-    "EngSoftwareVault/02-processos/Waterfall.md",
-    "EngSoftwareVault/02-processos/Métricas de Processo.md",
-    "EngSoftwareVault/02-processos/Seleção de Processos.md",
-    "EngSoftwareVault/03-requisitos/Histórias de Usuário.md",
-    "EngSoftwareVault/03-requisitos/Casos de Uso.md",
-    "EngSoftwareVault/04-modelos/Diagramas de Caso de Uso.md",
-    "EngSoftwareVault/04-modelos/images",
     "EngSoftwareVault/04-modelos/images/Pasted image 20250406215508.png",
-    "EngSoftwareVault/03-requisitos/Validação e Verificação.md",
-    "EngSoftwareVault/03-requisitos/Engenharia e Elicitação de Requisitos.md",
-    "EngSoftwareVault/03-requisitos/03-requisitos.md",
-    "EngSoftwareVault/03-requisitos/Gerenciamento de Mudanças.md",
-    "EngSoftwareVault/03-requisitos/Priorização de Requisitos.md",
-    "EngSoftwareVault/03-requisitos/images",
     "EngSoftwareVault/03-requisitos/images/Pasted image 20250406201835.png",
     "EngSoftwareVault/02-processos/images/Pasted image 20250406192419.png",
     "EngSoftwareVault/02-processos/images/Pasted image 20250405173456.png",
     "EngSoftwareVault/02-processos/images/Pasted image 20250405173036.png",
     "EngSoftwareVault/02-processos/images/Pasted image 20250405172753.png",
-    "EngSoftwareVault/02-processos/images",
-    "02-processos",
     "EngSoftwareVault/02-processos/images/Pasted image 20250405155743.png",
-    "EngSoftwareVault/02-processos/images/Pasted image 20250405155719.png",
-    "EngSoftwareVaul/02-processos",
-    "EngSoftwareVaul",
-    "TecQualVault/Resource/Introd_Tec_da Qualidade_Parte1_revA.pdf",
-    "TecQualVault/Resource",
-    "Testes A"
+    "EngSoftwareVault/02-processos/images/Pasted image 20250405155719.png"
   ]
 }
