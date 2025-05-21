@@ -1,0 +1,1 @@
+Uma garantia de satisfação total é um compromisso de uma empresa de que o cliente estará satisfeito com um produto ou serviço, e que, se não estiver, poderá solicitar um reembolso ou troca

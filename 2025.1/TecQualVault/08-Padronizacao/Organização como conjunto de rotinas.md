@@ -1,0 +1,12 @@
+De uma maneira geral, podemos afirmar que as rotinas se referem ao aspecto regular e previsível de comportamento da empresa
+As rotinas podem ser divididas em três grupos: 
+
+"Podemos afirmar que os procedimentos operacionais padrão são aplicáveis em situações onde os eventos são semelhantes e ocorrem de modo repetitivo. As rotinas estão associadas às situações em que os eventos são relativamente repetitivos, mas não são tão idênticos. Já as não-rotinas emergem quando os eventos são diferentes e não repetitivos."
+#### padrões (POPs)
+Tais processos trabalham em contornos bem definidos, utilizam alguns inputs necessários, são conduzidos conforme alguns algoritmos baseados em algumas teorias para se converter certos inputs em outputs. Neste contexto, o melhor modo para realização de cada atividade (One Best Way) deve ser estabelecido. Uma importante função da gerência é definir e estabelecer a melhor maneira de conduzir as atividades, por meio do POP. Neste contexto, se o POP for meticulosamente seguido atenderá aos objetivos definidos para o processo. Se objetivos não estão sendo atingidos, as causas podem ser oriundas de perturbações externas aos sistemas, deficiências no próprio algoritmo estabelecido para o processo, ou descumprimentos dos padrões.
+#### rotinas 
+Normalmente, são mais complexas que os processos padrão pois elas têm dois ou mais tipos de inputs, dois ou mais tipos de produtos, etc. A condução das atividades da maneira certa e do modo certo (One Best Way) não é o aspecto essencial no gerenciamento desses processos. O mais importante nestes processos é a avaliação e a classificação dos inputs existentes e a correta seleção de um conjunto definidos de algoritmos e ações para a consecução dos objetivos estabelecidos. 
+Se os objetivos não são atingidos as causas podem estar relacionadas com a seleção inadequada das linhas de ação.
+As rotinas podem ser gerenciadas por meio de Check-Lists, guias de melhores práticas e exemplos.
+#### não rotinas
+Os inputs dos processos de não-rotinas diferem dos processos de rotina. Nos processos de não- rotinas, os inputs são vagos e não podem ser classificados em categorias já estabelecidas que possibilitem adoção de certos algoritmos com determinadas ações. Portanto, a avaliação dos inputs é feita por meio de uma interpretação dos mesmos. Normalmente, esta interpretação é derivada de uma pesquisa buscando novas informações, conduzida em um processo interativo de indução e análise.

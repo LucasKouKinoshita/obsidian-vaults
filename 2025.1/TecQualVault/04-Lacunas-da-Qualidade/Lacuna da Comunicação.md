@@ -1,0 +1,19 @@
+A diferença entre as promessas feitas por meio da propaganda veiculada na mídia, por seus funcionários e outras formas de mensagens acerca do serviço prometido e o serviço entregue ao cliente
+-  Falta de uma comunicação integrada de marketing de serviços 
+- Tendência de ver cada comunicação externa como independente 
+- Não incluir o marketing interativo no plano de comunicação 
+- Ausência de um forte programa de marketing interno 
+- Gestão ineficaz das expectativas dos clientes 
+	- Não gerenciar as expectativas do cliente através de todas as formas de comunicação 
+	- Não educar adequadamente os clientes 
+- Prometer em excesso 
+	- Excesso de promessas na publicidade 
+	- Excesso de promessas na venda pessoal 
+	- Excesso de promessas através de sinais físicos de evidência 
+- Comunicações horizontais inadequadas 
+	- Comunicação insuficiente entre vendas e operações 
+	- Comunicação insuficiente entre a publicidade e as operações 
+	- Diferenças nas políticas e procedimentos entre filiais ou unidades
+- Preços inadequados
+	- Preços altos que elevam as expectativas dos clientes
+	- Preços que não estão ligados às percepções de valor do cliente

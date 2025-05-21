@@ -1,0 +1,12 @@
+A diferença entre o desenvolvimento de padrões de serviço e o real desempenho do serviço pelos funcionários e demais processos existentes na empresa
+- Deficiências nas políticas de recursos humanos (recrutamento paia, papeis mau definidos, pouca adequação entre empregado e tecnologia, sistemas de avaliação e remuneração inapropriados, falta de capacitação etc)
+- Clientes que não cumprem papéis 
+	- Clientes que não conhecem seus papeis e responsabilidades
+	- Clientes que exercem influência negativa uns sobre os outros
+- Problemas com intermediários de serviço
+	- Conflito de canais sobre objetivos e desempenho
+	- Conflito de canais sobre custos e recompensas
+	- Dificuldade em controlar a qualidade e a consistência
+	- Tensão entre empoderamento e controle
+- Dificuldade em conciliar a oferta e a demanda
+-

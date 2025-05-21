@@ -1,0 +1,20 @@
+- Agir rapidamente
+	- Tempo é um fator essencial
+- Não discutir com clientes
+	- A meta deve ser reunir fatos, não vencer um debate
+- Mostre que compreende o problema do **ponto de vista do cliente**
+	- Colocar-se no lugar dos clientes é o único modo de entendê-los eficientemente
+- Esclareça a verdade e identifique possíveis causas
+	- Se você cometeu um erro, peça desculpas de imediato, não fique na defensiva.
+- Dê aos clientes o benefício da dúvida 
+	- Nem todos os clientes dizem a verdade e nem toda reclamação é justificada
+- Esclareça etapas necessárias para resolver o problema
+	- Quando uma solução imediata não é possível, informar ao cliente como a organização planeja proceder mostra que uma providência corretiva está sendo tomada, além de estabelecer expectativas sobre o tempo.
+- Mantenha os clientes informados sobre o andamento da reclamação.
+	- As pessoas aceitarão melhor um problema se souberem que algo está sendo feito a respeito através de relatórios periódicos de progresso
+- Considere uma compensação.
+	- É apropriado oferecer uma compensação monetária ou uma oferta de serviço equivalente em espécie
+- Persista na reconquista da boa vontade do cliente
+	- Quando clientes ficam desapontados, um dos maiores desafios é restaurar sua confiança e preservar o relacionamento para o futuro.
+- Verifique o sistema de entrega de serviço e busque a excelência.
+	-  Resolvido o problema com o cliente, é preciso verificar se a causa foi por erros acidentais ou defeitos do sistema

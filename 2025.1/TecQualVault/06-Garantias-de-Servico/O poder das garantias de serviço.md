@@ -1,0 +1,5 @@
+- Obrigam empresas a focalizar o que seus clientes querem e esperam de cada elemento do serviço
+- Determinam padrões claros para clientes e funcionários sobre a empresa.
+- Exigem desenvolvimento de sistemas para gerar feedback que será usado para melhorar o serviço
+- Obrigam as organizações a entender o motivo das falhas e incentivam sua identificação e superação.
+- Força de marketing pois reduzem o risco da decisão de compra

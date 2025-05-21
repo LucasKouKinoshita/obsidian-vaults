@@ -15,8 +15,7 @@
 - Qualidade percebida - Discrepância entre a qualidade realizada (até o momento de entrega) e a qualidade percebida pelo cliente (durante o uso ou consumo do produto)
 - Qualidade de serviço - Comparação entre o serviço esperado e o serviço percebido. Medida final de adequação ao uso do produto. 
 
-
-#### Serviços
+####  [[Dimensões da qualidade para os serviços]]
 - Elementos tangíveis - aparência física das instalações, equipamento etc etc
 - Confiabilidade - Capacidade de realizar o serviço de forma correta
 - Responsividade - Disposição para auxiliar os clientes e prestar serviços

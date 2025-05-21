@@ -5,7 +5,7 @@ Esta seção explora como lidar com falhas no serviço e implementar estratégia
 ## Tópicos principais
 
 - [[Reações do cliente às falhas de serviço]]
+- [[Recuperação de serviço]]
 - [[Estratégias de recuperação de serviço]]
-- [[Redução de barreiras às reclamações]]
 - [[Como lidar com reclamações de clientes]]
 - [[Paradoxo da recuperação de serviço]] 

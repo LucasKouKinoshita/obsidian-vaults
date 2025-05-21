@@ -1,0 +1,4 @@
+- Empresas com reputação já solidificada e serviço de alta qualidade NÃO necessitem de garantia
+- Empresas que não tenham um bom padrão de qualidade, apresentando serviço precário, NÃO devem implementar garantia sem antes elevar sua qualidade
+- Empresas cujos serviços estão sujeitos a forças externas (fora de seu controle)
+- Não devem ser implementadas em mercados cujo os clientes percebem pouco risco financeiro, pessoal ou fisiológico associado a compra e uso do serviço

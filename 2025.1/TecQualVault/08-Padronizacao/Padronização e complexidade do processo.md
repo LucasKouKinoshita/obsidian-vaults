@@ -1,0 +1,5 @@
+" De uma maneira geral, podemos afirmar que as organizações estão lidando com um amplo acréscimo da complexidade nos seus processos. Esta ocorre por várias razões: aumento da variedade de seus elementos e das suas interconexões, aumento da customização dos produtos e/ou serviços, aumento do número de fornecedores com a maior terceirização das atividades, e consequentemente, maior complexidade na gestão da cadeia de suprimentos"
+
+"Podemos afirmar que a complexidade está diretamente relacionada com a dificuldade, incerteza e interdependência associadas com as atividades existentes no processo"
+
+"Por tudo isto, o aumento da complexidade do processo torna mais difícil e caro a sua padronização, tornando, muitas vezes, quase impossível a pré-definição de todos os possíveis fluxos de trabalho para o processo."

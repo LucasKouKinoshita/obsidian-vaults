@@ -1,0 +1,1 @@
+A garantia combinada, ou garantia de risco integrada, é uma abordagem que combina esforços de gestão de risco entre as três linhas (e seus provedores de garantia externa) para criar um ambiente de controle eficaz e relatórios de risco uniformes para a alta administração e o conselho
