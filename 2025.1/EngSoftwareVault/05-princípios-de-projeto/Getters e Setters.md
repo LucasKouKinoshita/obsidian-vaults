@@ -1,0 +1,3 @@
+- Todos os dados de uma classe devem ser privados e o acesso a eles — se necessário — deve ocorrer por meio de getters (acesso de leitura) e setters (acesso de escrita)
+- **Não são uma garantia de que estamos ocultando dados da classe, mas sim um instrumento de liberação de informação
+- É imprescindível liberar informação privativa de uma classe, getters e setters permitem que isto seja feito sem que os atributos sejam públicos.

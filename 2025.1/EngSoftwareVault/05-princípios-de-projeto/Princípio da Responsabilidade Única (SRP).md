@@ -1,0 +1,5 @@
+- Aplicação direta da ideia de [[Coesão]]
+- Toda classe deve ter uma única responsabilidade. Mais ainda, responsabilidade, no contexto do princípio, significa motivo para modificar uma classe. 
+- Separar apresentação de regras de negócio
+	- Portanto, um sistema deve possuir classes de apresentação, que vão tratar de aspectos de sua interface com os usuários, formato das mensagens, meio no qual as mensagens serão exibidas, etc. ([[frontend]])
+	- E classes responsáveis por regras de negócio, isto é, que vão realizar as computações, processamento, análises, etc ([[backend]])

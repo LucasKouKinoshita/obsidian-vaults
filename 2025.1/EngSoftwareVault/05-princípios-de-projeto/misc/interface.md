@@ -1,0 +1,2 @@
+- **O conjunto de métodos públicos de uma classe
+- Interfaces devem ser estáveis, pois mudanças na interface de uma classe podem demandar atualizações em seus clientes

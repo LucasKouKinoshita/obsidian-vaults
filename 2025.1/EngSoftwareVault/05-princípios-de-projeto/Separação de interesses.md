@@ -1,0 +1,3 @@
+- Semelhante ao conceito de [[Coesão]]
+- Uma classe deve implementar apenas um interesse (concern)
+	- Qualquer funcionalidade , requisito ou responsabilidade

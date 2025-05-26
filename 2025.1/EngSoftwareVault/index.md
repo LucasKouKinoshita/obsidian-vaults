@@ -15,10 +15,10 @@ Este roteiro de estudos é baseado no livro "Engenharia de Software Moderna" e o
 4. [Modelos](04-modelos.md)
 5. [Princípios de Projeto](05-principios-de-projeto.md)
 6. [Padrões de Projeto](06-padroes-de-projeto.md)
-7. [Testes](07-testes.md)
-8. [Refatoração](08-refatoracao.md)
-9. [Métricas](09-metricas.md)
-10. [Tópicos Avançados](10-topicos-avancados.md)
+7. [Arquitetura](07-Arquitetura-de-software.md)
+8. [Testes](08-Testes-de-software.md)
+9. [Refatoração](09-Refactoring.md)
+10. [DevOps](10-DevOps.md)
 
 ## Recursos Adicionais
 

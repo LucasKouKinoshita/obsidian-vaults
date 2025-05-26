@@ -8,7 +8,10 @@ A arquitetura de software é um aspecto fundamental do desenvolvimento de softwa
 - Fundamentos da arquitetura de software
 - Debate histórico entre Tanenbaum e Torvalds sobre microkernel vs monólito
 - Importância das decisões arquiteturais
-
+### [[Padrões e Anti-padrões Arquiteturais]]
+- Padrões arquiteturais comuns
+- Anti-padrões a serem evitados
+- Boas práticas de arquitetura 
 ### [[Arquitetura em Camadas]]
 - Conceito de arquitetura em camadas
 - Arquitetura em três camadas (apresentação, lógica de negócio, dados)
@@ -29,12 +32,7 @@ A arquitetura de software é um aspecto fundamental do desenvolvimento de softwa
 - Exemplo prático em empresa de telecomunicações
 - Benefícios e desafios
 
-### [[Arquiteturas Publish/Subscribe]]
+### [[Arquiteturas Publish-Subscribe]]
 - Padrão pub/sub
 - Exemplo em companhia aérea
 - Uso em sistemas distribuídos
-
-### [[Padrões e Anti-padrões Arquiteturais]]
-- Padrões arquiteturais comuns
-- Anti-padrões a serem evitados
-- Boas práticas de arquitetura 

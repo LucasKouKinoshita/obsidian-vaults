@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2f68f83528dd3d",
+        "id": "53396c1a368ca8a2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9c377a44c24c8c",
+            "id": "b8bd45862428f587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EngSoftwareVault/05-princípios-de-projeto/05-principios-de-projeto.md",
+                "file": "EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Publish-Subscribe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-principios-de-projeto"
+              "title": "Arquiteturas Publish-Subscribe"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 304.5
   },
   "right": {
     "id": "fa9ba06a5fd8bd30",
@@ -168,53 +168,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe9c377a44c24c8c",
+  "active": "b8bd45862428f587",
   "lastOpenFiles": [
-    "EngSoftwareVault/05-princípios-de-projeto/Abstração.md",
-    "EngSoftwareVault/06-padroes-de-projeto/06-padroes-de-projeto.md",
-    "EngSoftwareVault/07-Arquitetura-de-software/index.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Orientadas a Mensagens.md",
+    "Pasted image 20250525230129.png",
+    "Pasted image 20250525225520.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/Microsserviços.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525225138.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525225104.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525224803.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525224741.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/Arquitetura MVC.md",
+    "EngSoftwareVault/Resource/engenharia-de-software-moderna.pdf",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525223625.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525222918.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/Arquitetura em Camadas.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525221927.png",
+    "EngSoftwareVault/07-Arquitetura-de-software/Introdução à Arquitetura de Software.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/07-Arquitetura-de-software.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/Pipes e filtros.md",
     "EngSoftwareVault/07-Arquitetura-de-software/Padrões e Anti-padrões Arquiteturais.md",
+    "EngSoftwareVault/06-padroes-de-projeto/06-padroes-de-projeto.md",
+    "EngSoftwareVault/08-Testes-de-software/08-Testes-de-software.md",
+    "EngSoftwareVault/06-padroes-de-projeto/images/Pasted image 20250525192316.png",
+    "EngSoftwareVault/misc/lista polimórfica.md",
+    "EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Publish-Subscribe.md",
     "Arquiteturas Publish/Subscribe.md",
     "Arquiteturas Publish",
-    "EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Orientadas a Mensagens.md",
-    "EngSoftwareVault/07-Arquitetura-de-software/Microsserviços.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Padrões Estruturais.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Anti-padrões.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Builder.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Iterator.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Visitor.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Template method.md",
     "EngSoftwareVault/06-padroes-de-projeto/Observer.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Introdução aos Padrões de Projeto.md",
-    "EngSoftwareVault/07-Arquitetura-de-software/Arquitetura MVC.md",
-    "EngSoftwareVault/07-Arquitetura-de-software/Arquitetura em Camadas.md",
-    "EngSoftwareVault/07-Arquitetura-de-software/Introdução à Arquitetura de Software.md",
-    "images",
-    "EngSoftwareVault/Resource/engenharia-de-software-moderna.pdf",
-    "EngSoftwareVault/09-Refactoring/index.md",
-    "EngSoftwareVault/10-DevOps/index.md",
-    "EngSoftwareVault/08-Testes-de-software/index.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Decorator.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Strategy.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Padrões Comportamentais.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Facade.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Abstract Factory.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Adapter.md",
+    "EngSoftwareVault/06-padroes-de-projeto/Padrões Estruturais.md",
+    "EngSoftwareVault/misc",
+    "EngSoftwareVault/05-princípios-de-projeto/misc",
+    "EngSoftwareVault/images",
     "EngSoftwareVault/10-DevOps",
     "EngSoftwareVault/09-Refactoring",
     "EngSoftwareVault/08-Testes-de-software",
-    "EngSoftwareVault/07-Arquitetura-de-software",
-    "EngSoftwareVault/roadmap.md",
-    "EngSoftwareVault/07-testes/images",
-    "EngSoftwareVault/06-padroes-de-projeto/images",
-    "EngSoftwareVault/06-padroes-de-projeto/Anti-padrões.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Composite.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Strategy.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Factory Method.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Padrões Comportamentais.md",
-    "EngSoftwareVault/06-padroes-de-projeto/Padrões Criacionais.md",
-    "EngSoftwareVault/05-princípios-de-projeto/05-principios-de-projeto.md",
-    "EngSoftwareVault/05-princípios-de-projeto/Lei de Demeter.md",
-    "Princípio Aberto",
-    "EngSoftwareVault/04-modelos/images/Pasted image 20250509234525.png",
-    "EngSoftwareVault/04-modelos/images/Pasted image 20250509235037.png",
-    "TecQualVault/images/Pasted image 20250509232600.png",
-    "TecQualVault/images/Pasted image 20250509232519.png",
-    "TecQualVault/images/Pasted image 20250509232423.png",
-    "TecQualVault/images/Pasted image 20250509232143.png",
-    "TecQualVault/images/Pasted image 20250509232108.png",
-    "TecQualVault/images/Pasted image 20250509232028.png",
-    "TecQualVault/images/Pasted image 20250509232011.png",
-    "TecQualVault/images/Pasted image 20250509223818.png"
+    "EngSoftwareVault/07-Arquitetura-de-software"
   ]
 }
