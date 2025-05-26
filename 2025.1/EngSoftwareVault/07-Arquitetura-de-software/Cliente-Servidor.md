@@ -1,0 +1,1 @@
+Clientes e servidores são os dois únicos módulos desse tipo de arquitetura e eles se comunicam por meio de uma rede.

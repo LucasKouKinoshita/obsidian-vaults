@@ -36,3 +36,7 @@ A arquitetura de software é um aspecto fundamental do desenvolvimento de softwa
 - Padrão pub/sub
 - Exemplo em companhia aérea
 - Uso em sistemas distribuídos
+### Outras arquiteturas
+- [[Pipes e filtros]]
+- [[Cliente-Servidor]]
+- [[Peer-to-peer]]
