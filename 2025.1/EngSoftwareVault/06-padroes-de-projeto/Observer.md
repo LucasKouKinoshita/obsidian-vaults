@@ -9,7 +9,7 @@ Esse padrão define como implementar uma relação do tipo um-para-muitos entre 
 void main() {
 	Temperatura t = new Temperatura() // Sujeito
 	t.addObserver(new TermometroCelsius());
-	t.addOberver(bew TermometroFahrenheit());
+	t.addObserver(bew TermometroFahrenheit());
 	t.setTemp(100.0);
 }
 

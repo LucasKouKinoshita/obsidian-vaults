@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "8681d0cfc8bf6176",
+    "type": "split",
+    "children": [
+      {
+        "id": "7446ddad1055b9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f342df68f947aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025.1/EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singleton"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5328147cc5262f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab403956b2675f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c54ebbea9bba325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92620c6f1765374d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8bd0ca527c62a706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75f4a4b79e82095d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e972427b7728a9ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f54aa71125e47de5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025.1/EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Singleton"
+            }
+          },
+          {
+            "id": "959cf48216505383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025.1/EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Singleton"
+            }
+          },
+          {
+            "id": "863821f0bafced9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a99c710026723a86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025.1/EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Singleton"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5f342df68f947aec",
+  "lastOpenFiles": [
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Iterator.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Decorator.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Facade.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Introdução aos Padrões de Projeto.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Observer.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Padrões Comportamentais.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Padrões Criacionais.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Padrões Estruturais.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Proxy.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Strategy.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Template method.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Visitor.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/07-Arquitetura-de-software.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Pipes e filtros.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Peer-to-peer.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Padrões e Anti-padrões Arquiteturais.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Microsserviços.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Introdução à Arquitetura de Software.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Cliente-Servidor.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Publish-Subscribe.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Arquiteturas Orientadas a Mensagens.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Arquitetura MVC.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/Singleton.md",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/Arquitetura em Camadas.md",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/06-padroes-de-projeto.md",
+    "2025.1/EngSoftwareVault/05-princípios-de-projeto/Prefira Composição a Herança.md",
+    "2025.1/EngSoftwareVault/05-princípios-de-projeto/misc",
+    "2025.1/EngSoftwareVault/misc",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525232304.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525231017.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525230129.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525223625.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525224803.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525225138.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525225520.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525225104.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525224741.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs/Pasted image 20250525221927.png",
+    "2025.1/EngSoftwareVault/07-Arquitetura-de-software/imgs",
+    "2025.1/EngSoftwareVault/06-padroes-de-projeto/images",
+    "2025.1/Princípio Aberto",
+    "2025.1/Arquiteturas Publish"
+  ]
+}

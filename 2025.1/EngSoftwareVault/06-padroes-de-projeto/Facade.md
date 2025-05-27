@@ -14,7 +14,7 @@ class InterpretadorX {
 		Parser p = new Parser(s);
 		AST ast = p.parse();
 		CodeGenerator code = new CodeGenerator(ast);
-		code,eval();
+		code.eval();
 	}
 }
 
