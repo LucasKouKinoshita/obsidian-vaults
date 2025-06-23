@@ -1,0 +1,1 @@
+[cite_start]É um formulário planejado para facilitar a coleta de dados de forma organizada e concisa, permitindo que os dados sejam usados facilmente para análises posteriores.

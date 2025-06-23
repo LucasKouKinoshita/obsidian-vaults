@@ -1,0 +1,7 @@
+- Também conhecidos como testes de interface com usuário
+- Simulam da forma mais fiel possível uma sessão de uso de um sistema por um usuário real
+- E2E (end-to-end) ou testes de interfaces
+- Mais caros
+- Mais lentos
+- Menos numerosos
+- Frágeis -> mínimas alterações nos componentes da interface podem demandar modificações nesses testes.

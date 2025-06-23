@@ -1,0 +1,1 @@
+[cite_start]Esta regra empírica, atribuída a Juran, sugere que pelo menos 85% dos problemas de uma organização são causados por falhas nos sistemas (responsabilidade da gerência), enquanto menos de 15% estão sob o controle direto dos trabalhadores.

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8e7364a6f740f4c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3505153e8f9d9749",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c473f8df8a0fcfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TecQualVault/17-Custos-da-Qualidade/Categorias de custos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Categorias de custos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a83c14357fdfae53",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a178a2be03f9500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "769f9dbb9c508c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc87c5331b824013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c25600dcd96740e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "fa9ba06a5fd8bd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "153b0f169127baa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdffd8549534cca2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EngSoftwareVault/10-DevOps/Integração Contínua (CI).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Integração Contínua (CI)"
+            }
+          },
+          {
+            "id": "11da58eae6cc1595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EngSoftwareVault/10-DevOps/Integração Contínua (CI).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Integração Contínua (CI)"
+            }
+          },
+          {
+            "id": "81afb7c6e2d40c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9912bf5b134ed400",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EngSoftwareVault/01-introducao.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-introducao"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c473f8df8a0fcfb0",
+  "lastOpenFiles": [
+    "TecQualVault/17-Custos-da-Qualidade/Custos da Qualidade.md",
+    "TecQualVault/17-Custos-da-Qualidade/Objetivos dos custos da qualidade.md",
+    "TecQualVault/17-Custos-da-Qualidade/Abordagem.md",
+    "Pasted image 20250622205811.png",
+    "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205730.png",
+    "TecQualVault/17-Custos-da-Qualidade/Categorias de Custos da Qualidade.md",
+    "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205428.png",
+    "TecQualVault/roadmap2.md",
+    "TecQualVault/16-Planejamento-da-Qualidade/Planejamento da Qualidade.md",
+    "TecQualVault/16-Planejamento-da-Qualidade/Ferramentas de apoio ao planejamento da qualidade.md",
+    "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200945.png",
+    "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200934.png",
+    "TecQualVault/16-Planejamento-da-Qualidade/Passos para o planejamento da qualidade.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194904.png",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194147.png",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Cartas de Controle Estatístico de Processo (CEP).md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Capacidade de Processos.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Carta de Controle X e R.md",
+    "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185949.png",
+    "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185447.png",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Erro Tipo I e II.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Esquema Geral dos Gráficos de Controle.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Finalidades dos Gráficos de Controle.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Conceito de Controle de Processo.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/A Regra dos 85-15.md",
+    "A Regra dos 85/15 1.md",
+    "A Regra dos 85/15.md",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Tipos de Variação.md",
+    "TecQualVault/14-Aceitação-por-Amostragem/Aceitação por Amostragem.md",
+    "TecQualVault/14-Aceitação-por-Amostragem/Curva Característica de Operação (CCO).md",
+    "TecQualVault/14-Aceitação-por-Amostragem/Planos de Amostragem.md",
+    "TecQualVault/14-Aceitação-por-Amostragem/Amostragem Aleatória.md",
+    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Algumas Ferramentas da Qualidade.md",
+    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/FMEA (Análise de Modos e Efeitos de Falhas).md",
+    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Diagramas de Dispersão.md",
+    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Pasted image 20250622181219.png",
+    "TecQualVault/17-Custos-da-Qualidade",
+    "TecQualVault/16-Planejamento-da-Qualidade",
+    "A Regra dos 85",
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo",
+    "TecQualVault/14-Aceitação-por-Amostragem",
+    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade",
+    "TecQualVault/12-Ferramentas-da-Qualidade",
+    "TecQualVault/11-Melhoramento-da-Qualidade",
+    "EngSoftwareVault/Resource/engenharia-de-software-moderna.pdf",
+    "EngSoftwareVault/10-DevOps/imgs"
+  ]
+}

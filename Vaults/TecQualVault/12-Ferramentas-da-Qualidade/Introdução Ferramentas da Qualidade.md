@@ -1,0 +1,3 @@
+[cite_start]As ferramentas da qualidade são fundamentais em programas de gestão e exigem o envolvimento de todos na organização. [cite_start]A gerência tem a responsabilidade de treinar os funcionários no uso dessas ferramentas e garantir que os esforços de melhoria sejam direcionados a problemas relevantes para a empresa, fornecendo o apoio necessário às equipes.
+
+![[Pasted image 20250622174354.png]]

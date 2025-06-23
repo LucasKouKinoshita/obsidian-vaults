@@ -1,0 +1,5 @@
+[cite_start]Discute as abordagens para a melhoria de processos com base em dois tipos de aprendizado: o conceitual (entender as relações de causa e efeito) e o operacional (implementar uma teoria e observar os resultados). [cite_start]A combinação desses aprendizados resulta em quatro tipos de projetos de melhoria: combate a incêndios (baixo em ambos), habilidades artesanais (alto operacional, baixo conceitual), teorias não validadas (alto conceitual, baixo operacional) e teorias validadas operacionalmente (alto em ambos). [cite_start]Destes, apenas as teorias validadas operacionalmente demonstraram ter um impacto positivo significativo
+![[Pasted image 20250622174025.png]]
+autores descobriram que apenas as teorias validadas operacionalmente tiveram um
+impacto positivo no resultado final. Teorias não validadas tiveram um efeito prejudicial,
+e o combate a incêndios e as habilidades artesanais não fizeram qualquer diferença

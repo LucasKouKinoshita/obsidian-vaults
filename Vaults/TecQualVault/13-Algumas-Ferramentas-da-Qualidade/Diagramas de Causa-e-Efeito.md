@@ -1,0 +1,1 @@
+[cite_start]Também conhecido como Diagrama de Ishikawa ou Espinha de Peixe, é uma ferramenta gráfica para visualizar e organizar as possíveis causas de um problema (efeito). [cite_start]As causas são tipicamente agrupadas em categorias principais, como Mão de Obra, Matéria-Prima, Método, Máquina, Medição e Meio Ambiente.

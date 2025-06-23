@@ -1,0 +1,2 @@
+[cite_start]Ouadro (proposto por Drumond) que relaciona as etapas do desenvolvimento de produtos com diversos métodos estatísticos e ferramentas da qualidade que podem ser aplicados em cada fase, como Pesquisas de Mercado, Análise de Regressão, QFD, Planejamento de Experimentos (DOE), FMEA de processo e produto, e Cartas de Controle.
+![[Pasted image 20250622200934.png]]![[Pasted image 20250622200945.png]]

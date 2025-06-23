@@ -1,0 +1,1 @@
+[cite_start]Ressalta a importância de selecionar amostras de forma aleatória, garantindo que cada item do lote tenha a mesma chance de ser escolhido, para que a amostra seja representativa do todo.

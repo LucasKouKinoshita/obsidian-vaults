@@ -1,0 +1,1 @@
+A partir dessa imagem, você pode criar várias instâncias de uma aplicação

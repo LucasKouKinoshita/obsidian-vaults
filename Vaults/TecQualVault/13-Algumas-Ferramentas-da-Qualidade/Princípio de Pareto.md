@@ -1,0 +1,1 @@
+Conhecido como "Lei 80-20" ou "Poucos elementos vitais, mas muitos triviais"

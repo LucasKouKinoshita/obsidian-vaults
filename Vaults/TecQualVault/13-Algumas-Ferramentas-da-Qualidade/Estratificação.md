@@ -1,0 +1,1 @@
+[cite_start]Consiste em agrupar os dados em categorias ou estratos distintos (como turno, máquina, fornecedor, operador) para investigar as causas de um problema, analisando as diferenças entre os grupos.

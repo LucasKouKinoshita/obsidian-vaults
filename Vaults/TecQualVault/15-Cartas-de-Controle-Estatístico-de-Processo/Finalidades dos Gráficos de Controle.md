@@ -1,0 +1,1 @@
+[cite_start]Os gráficos de controle têm duas finalidades principais: verificar se um processo é capaz de atender às especificações e monitorar se o processo permanece sob controle estatístico ao longo do tempo.

@@ -1,0 +1,3 @@
+- Demorados
+- Caros
+- Devem ser repetidos sempre que o sistema sofre alterações

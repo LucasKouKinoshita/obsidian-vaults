@@ -1,0 +1,1 @@
+[cite_start]Define um processo como um conjunto de causas (equipamentos, materiais, mão-de-obra, etc.) que resultam em um efeito (o produto ou serviço).

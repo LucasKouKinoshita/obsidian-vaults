@@ -1,0 +1,2 @@
+[cite_start]É um gráfico de barras que mostra a distribuição de frequência de um conjunto de dados. [cite_start]Ele permite visualizar a forma, a centralidade e a dispersão dos dados do processo.
+![[Pasted image 20250622181219.png]]

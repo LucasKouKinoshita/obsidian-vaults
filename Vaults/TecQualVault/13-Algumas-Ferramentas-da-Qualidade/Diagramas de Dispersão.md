@@ -1,0 +1,1 @@
+[cite_start]Utilizado para verificar se existe uma relação entre duas variáveis numéricas, plotando-as em um gráfico de dois eixos (x e y). [cite_start]A análise do padrão dos pontos pode indicar uma correlação (linear ou não) positiva, negativa ou a ausência de relação.

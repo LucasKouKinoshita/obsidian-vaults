@@ -1,0 +1,1 @@
+[cite_start]Distingue dois tipos de variação em um processo: causas comuns (fontes pequenas e inerentes ao processo, que determinam sua capacidade) e causas especiais (fontes esporádicas e não usuais que surgem de circunstâncias específicas). [cite_start]O tratamento inadequado de cada tipo de variação pode piorar o processo.

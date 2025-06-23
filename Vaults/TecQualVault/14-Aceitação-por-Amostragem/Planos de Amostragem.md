@@ -1,0 +1,2 @@
+[cite_start]Um plano de amostragem especifica o tamanho do lote (N), o tamanho da amostra (n) e os critérios de aceitação/rejeição. [cite_start]O plano de amostragem único, o mais simples, envolve tomar uma amostra e rejeitar o lote se o número de itens defeituosos exceder um limite predefinido.
+![[Pasted image 20250622185447.png]]
