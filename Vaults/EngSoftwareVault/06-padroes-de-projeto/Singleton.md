@@ -4,7 +4,7 @@ Esse padrão de projeto define como implementar classes que terão, como o próp
 
 ```
 class Logger {
-	private Logger(); // proibide clientes de chamar new Logger()
+	private Logger(); // proibi clientes de chamar new Logger()
 	private static Logger instance; // instancia unica
 
 	public static Logger getInstance() {

@@ -18,29 +18,18 @@ Padrões que focam na composição de classes e objetos, como Adapter, Bridge, C
 ### [[Padrões Comportamentais]]
 Padrões que definem como os objetos interagem e distribuem responsabilidades, como Observer, Strategy, Command, Template Method, Iterator, State e Visitor.
 
-### [[Abstract Factory]]
-Padrão que define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.
 ### [[Singleton]]
 Padrão que garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
-### [[Builder]]
 
-### [[Proxy]]
+### [[Factory Method]]
+Padrão que define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.
 
-### [[Adapter]]
-
-### [[Facade]]
-
-### [[Decorator]]
-
-### [[Strategy]]
-Padrão que define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.
 ### [[Observer]]
 Padrão que define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
 
-### [[Template method]]
-### [[Visitor]]
+### [[Strategy]]
+Padrão que define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.
 
-### [[Iterator]]
 ### [[Composite]]
 Padrão que compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo que clientes tratem objetos individuais e composições de objetos de maneira uniforme.
 
