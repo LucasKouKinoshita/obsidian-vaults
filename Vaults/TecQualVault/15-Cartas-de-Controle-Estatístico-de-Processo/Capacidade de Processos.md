@@ -7,7 +7,7 @@ Cp = LSE-LIE / 6sigma
 sigma = R_barra/d2
 
 Cpk_inferior = (x_barra_barra - LIE)/3sigma
-Cpk_inferior = (LSE - x_barra_barra)/3sigma
+Cpk_superior = (LSE - x_barra_barra)/3sigma
 
 sigma -> desvio padrão
 LE's -> limites de especificação
