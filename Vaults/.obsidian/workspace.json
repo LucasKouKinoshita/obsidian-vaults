@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Etapas do QC Story"
             }
+          },
+          {
+            "id": "7a00ddbacd70b07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InfraVault/bibliografia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bibliografia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,52 +184,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c473f8df8a0fcfb0",
+  "active": "7a00ddbacd70b07c",
   "lastOpenFiles": [
+    "InfraVault/bib/Docker up and running.pdf",
+    "InfraVault/bib",
+    "InfraVault/Nova pasta",
+    "InfraVault/01-containers/README.md",
+    "InfraVault/01-containers/Docker-Images.md",
+    "InfraVault/01-containers/Docker-Engine.md",
+    "InfraVault/01-containers/Docker-Compose.md",
+    "InfraVault/01-containers/Dockerfile-Basico.md",
+    "InfraVault/01-containers/Docker-Introducao.md",
+    "FilosofiaVault/index.md",
+    "FilosofiaVault/01-ontologia/README.md",
+    "FilosofiaVault/bibliografia.md",
+    "FilosofiaVault/02-existencialismo/README.md",
+    "FilosofiaVault/base/Ser-Existencia.md",
+    "FilosofiaVault/base/README.md",
+    "FilosofiaVault/roadmap.md",
+    "FilosofiaVault/10-filosofia-continental",
+    "FilosofiaVault/09-filosofia-analitica",
+    "FilosofiaVault/08-filosofia-contemporanea",
+    "FilosofiaVault/07-estetica",
+    "FilosofiaVault/06-etica",
+    "FilosofiaVault/05-pos-modernismo",
+    "FilosofiaVault/04-hermeneutica",
+    "FilosofiaVault/03-fenomenologia",
+    "InfraVault/bibliografia.md",
+    "InfraVault/10-observabilidade/README.md",
+    "InfraVault/09-cicd/README.md",
+    "InfraVault/08-storage/README.md",
+    "InfraVault/07-automacao/README.md",
+    "InfraVault/06-networking/README.md",
+    "InfraVault/05-seguranca/README.md",
+    "InfraVault/04-monitoramento/README.md",
+    "InfraVault/03-cloud-computing/README.md",
+    "TecQualVault/11-Melhoramento-da-Qualidade/Diferentes modos de melhorar o processo.md",
     "TecQualVault/17-Custos-da-Qualidade/Abordagem.md",
     "TecQualVault/17-Custos-da-Qualidade/Categorias de Custos da Qualidade.md",
-    "TecQualVault/17-Custos-da-Qualidade/Custos da Qualidade.md",
-    "TecQualVault/17-Custos-da-Qualidade/Objetivos dos custos da qualidade.md",
     "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205428.png",
-    "TecQualVault/17-Custos-da-Qualidade/Categorias de custos.md",
-    "TecQualVault/16-Planejamento-da-Qualidade/Ferramentas de apoio ao planejamento da qualidade.md",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Conceito de Controle de Processo.md",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Cartas de Controle Estatístico de Processo (CEP).md",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Carta de Controle X e R.md",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Capacidade de Processos.md",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/A Regra dos 85-15.md",
-    "TecQualVault/14-Aceitação-por-Amostragem/Curva Característica de Operação (CCO).md",
-    "TecQualVault/14-Aceitação-por-Amostragem/Amostragem Aleatória.md",
-    "TecQualVault/14-Aceitação-por-Amostragem/Aceitação por Amostragem.md",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185447.png",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185949.png",
-    "TecQualVault/14-Aceitação-por-Amostragem/Planos de Amostragem.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Histograma.md",
     "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Pasted image 20250622180536.png",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Folha de Verificação.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/FMEA (Análise de Modos e Efeitos de Falhas).md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Estratificação.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Diagramas de Dispersão.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Diagramas de Causa-e-Efeito.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Diagrama de Pareto.md",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Algumas Ferramentas da Qualidade.md",
-    "TecQualVault/12-Ferramentas-da-Qualidade/O papel do pensamento estatístico na Qualidade.md",
-    "TecQualVault/12-Ferramentas-da-Qualidade/Introdução Ferramentas da Qualidade.md",
     "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200945.png",
     "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200934.png",
     "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194147.png",
     "Pasted image 20250622205811.png",
     "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205730.png",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194904.png",
-    "TecQualVault/17-Custos-da-Qualidade",
-    "TecQualVault/16-Planejamento-da-Qualidade",
-    "A Regra dos 85",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo",
-    "TecQualVault/14-Aceitação-por-Amostragem",
-    "TecQualVault/13-Algumas-Ferramentas-da-Qualidade",
-    "TecQualVault/12-Ferramentas-da-Qualidade",
-    "TecQualVault/11-Melhoramento-da-Qualidade",
-    "EngSoftwareVault/Resource/engenharia-de-software-moderna.pdf",
-    "EngSoftwareVault/10-DevOps/imgs"
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194904.png"
   ]
 }
