@@ -1,0 +1,1 @@
+Plataforma de análise de dados unificada da Microsoft que integra engenharia de dados, ciência de dados e business intelligence em um único ambiente.

@@ -1,0 +1,1 @@
+Plataforma de automação de TI que configura sistemas, implanta software e orquestra [[workflow]]s avançados de TI, como implantações contínuas, sem a necessidade de agentes nos nós gerenciados.

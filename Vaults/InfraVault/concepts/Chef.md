@@ -1,0 +1,1 @@
+Plataforma de automação de infraestrutura que utiliza uma linguagem declarativa baseada em Ruby para transformar a infraestrutura em código, garantindo a configuração e manutenção consistentes dos sistemas.

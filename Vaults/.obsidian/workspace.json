@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3505153e8f9d9749",
+        "id": "1e7e680589aadc2b",
         "type": "tabs",
         "children": [
           {
-            "id": "c473f8df8a0fcfb0",
+            "id": "7523a2616b183ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TecQualVault/11-Melhoramento-da-Qualidade/Etapas do QC Story.md",
+                "file": "InfraVault/01-containers/Docker-Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etapas do QC Story"
-            }
-          },
-          {
-            "id": "7a00ddbacd70b07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InfraVault/bibliografia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bibliografia"
+              "title": "Docker-Compose"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,53 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a00ddbacd70b07c",
+  "active": "7523a2616b183ffe",
   "lastOpenFiles": [
+    "InfraVault/01-containers/Docker-Container.md",
+    "InfraVault/01-containers/README.md",
+    "InfraVault/01-containers/Dockerfile-Basico.md",
+    "Software/imgs/108651385-67ccda80-74a0-11eb-9390-80df6ea6fd8c.png",
+    "InfraVault/01-containers/Docker-Introducao.md",
+    "InfraVault/01-containers/Docker-Multi-Stage.md",
+    "InfraVault/01-containers/Docker-Security.md",
+    "InfraVault/01-containers/Docker-Server.md",
+    "InfraVault/01-containers/Docker-Volumes.md",
+    "InfraVault/01-containers/Docker-Images.md",
+    "Software/Docker.md",
+    "Software/DockerFile.md",
+    "Software/Container Docker.md",
+    "Livros/Book list.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/README.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna do Projeto e dos Padrões de Serviço.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna do Desempenho do Serviço.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna da Comunicação.md",
+    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna da Compreensão do Cliente.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/Zona de Tolerância.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/Satisfação versus qualidade do serviço.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/README.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/Fatores que influenciam expectativas de serviço.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/Dinâmica da Zona de Tolerância.md",
+    "TecQualVault/03-Avaliacao-dos-Servicos/Dimensões da qualidade para os serviços.md",
+    "TecQualVault/02-Servico-e-Caracteristicas/README.md",
+    "TecQualVault/02-Servico-e-Caracteristicas/Definição de Serviço como benefícios sem propriedade.md",
+    "InfraVault/01-containers/images",
+    "InfraVault/01-containers/images/Pasted image 20251007234014.png",
+    "Livros",
+    "TecQualVault/images/Pasted image 20250622205811.png",
+    "InfraVault/concepts",
     "InfraVault/bib/Docker up and running.pdf",
     "InfraVault/bib",
     "InfraVault/Nova pasta",
-    "InfraVault/01-containers/README.md",
-    "InfraVault/01-containers/Docker-Images.md",
-    "InfraVault/01-containers/Docker-Engine.md",
-    "InfraVault/01-containers/Docker-Compose.md",
-    "InfraVault/01-containers/Dockerfile-Basico.md",
-    "InfraVault/01-containers/Docker-Introducao.md",
-    "FilosofiaVault/index.md",
-    "FilosofiaVault/01-ontologia/README.md",
-    "FilosofiaVault/bibliografia.md",
-    "FilosofiaVault/02-existencialismo/README.md",
-    "FilosofiaVault/base/Ser-Existencia.md",
-    "FilosofiaVault/base/README.md",
-    "FilosofiaVault/roadmap.md",
     "FilosofiaVault/10-filosofia-continental",
     "FilosofiaVault/09-filosofia-analitica",
     "FilosofiaVault/08-filosofia-contemporanea",
     "FilosofiaVault/07-estetica",
-    "FilosofiaVault/06-etica",
-    "FilosofiaVault/05-pos-modernismo",
-    "FilosofiaVault/04-hermeneutica",
-    "FilosofiaVault/03-fenomenologia",
-    "InfraVault/bibliografia.md",
-    "InfraVault/10-observabilidade/README.md",
-    "InfraVault/09-cicd/README.md",
-    "InfraVault/08-storage/README.md",
-    "InfraVault/07-automacao/README.md",
-    "InfraVault/06-networking/README.md",
-    "InfraVault/05-seguranca/README.md",
-    "InfraVault/04-monitoramento/README.md",
-    "InfraVault/03-cloud-computing/README.md",
-    "TecQualVault/11-Melhoramento-da-Qualidade/Diferentes modos de melhorar o processo.md",
-    "TecQualVault/17-Custos-da-Qualidade/Abordagem.md",
-    "TecQualVault/17-Custos-da-Qualidade/Categorias de Custos da Qualidade.md",
     "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205428.png",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185447.png",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185949.png",
     "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Pasted image 20250622180536.png",
     "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200945.png",
     "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200934.png",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194147.png",
-    "Pasted image 20250622205811.png",
-    "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205730.png",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194904.png"
+    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194147.png"
   ]
 }

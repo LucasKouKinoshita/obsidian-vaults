@@ -1,0 +1,1 @@
+Ferramenta de gerenciamento de configuração de software que usa uma linguagem declarativa para descrever o estado desejado de sistemas, automatizando a configuração, o provisionamento e o gerenciamento de servidores.

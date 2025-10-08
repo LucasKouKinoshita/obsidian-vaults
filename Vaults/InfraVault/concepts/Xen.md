@@ -1,0 +1,1 @@
+Hipervisor de código aberto que permite que vários sistemas operacionais de computador sejam executados simultaneamente na mesma máquina física

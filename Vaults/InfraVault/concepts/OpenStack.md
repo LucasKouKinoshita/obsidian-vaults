@@ -1,0 +1,1 @@
+Plataforma de software de código aberto que fornece os componentes para construir e gerenciar infraestruturas de computação em nuvem pública e privada.
