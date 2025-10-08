@@ -1,0 +1,1 @@
+Plataforma de automação de TI de código aberto baseada em eventos que gerencia configurações, executa comandos remotos e provisiona servidores em alta velocidade.

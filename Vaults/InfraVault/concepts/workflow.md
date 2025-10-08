@@ -1,0 +1,1 @@
+Sequência de passos, tarefas e processos que precisam ser executados para completar uma determinada atividade, como o fluxo de trabalho de uma implantação ([[CI-CD]] workflow) ou um fluxo de trabalho de aprovação.

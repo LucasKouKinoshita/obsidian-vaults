@@ -1,0 +1,1 @@
+Criar uma versão virtual (não física) de algo**, como um sistema operacional, um servidor, um dispositivo de armazenamento ou um recurso de rede.

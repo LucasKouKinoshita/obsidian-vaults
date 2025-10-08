@@ -1,0 +1,1 @@
+Mecanismo que permite **interceptar um processo e executar um código personalizado**.

@@ -1,0 +1,1 @@
+Ferramenta de automação de servidor remoto e [[Implantação]], escrita em Ruby, para executar scripts em múltiplos servidores de forma programática.

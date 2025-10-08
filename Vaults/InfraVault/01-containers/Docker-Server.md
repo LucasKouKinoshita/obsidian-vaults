@@ -1,0 +1,1 @@
+Comando dockerd usado para iniciar um processo server que constrói e lança containers via client.

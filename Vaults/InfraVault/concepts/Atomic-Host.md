@@ -1,0 +1,1 @@
+Um host atômico é uma imagem de um [[Sistemas-Operacionais-Fundamentais|OS]] pequena e bem ajustada, como [[Fedora CoreOS]] que suporta o hosting de containers e atualizações atômicas de [[Sistemas-Operacionais-Fundamentais|OS]]. 

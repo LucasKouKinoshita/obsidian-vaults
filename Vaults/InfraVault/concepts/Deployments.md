@@ -1,0 +1,1 @@
+Processo(s) de colocar um software, uma atualização ou um sistema em um ambiente de produção (ou outro ambiente, como homologação ou testes) para que ele comece a funcionar e fique disponível para os usuários.
