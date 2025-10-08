@@ -10,7 +10,7 @@
 #### Classes grandes
 - Assim como métodos, classes não devem possuir muitas responsabilidades
 	- Baixa coesão
-- Tornam o código dificil de entender e manter
+- Tornam o código difícil de entender e manter
 - Dificultam reuso em outros pacotes ou sistema
 - Considerar extração de classe para extrair um A' de uma classe A grande, de forma que A passa ater um atributo do tipo A'
 #### Feature Envy

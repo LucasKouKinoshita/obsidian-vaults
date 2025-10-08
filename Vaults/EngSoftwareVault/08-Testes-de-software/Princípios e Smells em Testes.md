@@ -1,6 +1,6 @@
 Questões importantes para a implementação de testes que tenham qualidade e que possam ser facilmente mantidos e entendidos
 #### Princípio FIRST
-**Fast**: é importante que eles sejam executados rapidamente (esenvolvedores devem executar testes de unidades frequentemente)
+**Fast**: é importante que eles sejam executados rapidamente (desenvolvedores devem executar testes de unidades frequentemente)
 **Independents**: A ordem de execução dos testes de unidade não é importante.
 **Repeatable**: Determinísticos, testes de unidade devem ter sempre o mesmo resultado.
 **Self-checking**: O resultado de um teste de unidades deve ser facilmente verificável.  Para interpretar o resultado do teste, o desenvolvedor não deve, por exemplo, ter que abrir e analisar um arquivo de saída ou fornecer dados manualmente.
