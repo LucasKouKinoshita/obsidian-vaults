@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaults/aignosi/mlops-bff/Exemplo de Request para Postman - Endpoint run-model.md",
+                "file": "anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exemplo de Request para Postman - Endpoint run-model"
+              "title": "anotações"
             }
           }
         ]
@@ -171,12 +171,13 @@
   },
   "active": "ff8ab4892161e2b3",
   "lastOpenFiles": [
-    "a.md",
+    "Vaults/aignosi/mlops-bff/Guia de Execução Local no Windows.md",
+    "anotações.md",
     "Vaults/aignosi/mlops-bff/Exemplo de Request para Postman - Endpoint run-model.md",
+    "a.md",
     "Vaults/aignosi/sientia",
     "Vaults/aignosi/model-api",
     "Vaults/aignosi/Untitled.md",
-    "Vaults/aignosi/mlops-bff/Guia de Execução Local no Windows.md",
     "Vaults/aignosi/mlops-bff",
     "Vaults/aignosi",
     "Untitled",
