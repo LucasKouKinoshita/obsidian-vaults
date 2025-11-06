@@ -472,3 +472,4 @@ Este roadmap fornece um percurso detalhado e estruturado para dominar filosofia 
 ---
 
 *Este roadmap é um guia flexível para o aprendizado em filosofia. A filosofia é uma jornada pessoal de descoberta e reflexão. Adapte o percurso conforme suas necessidades e interesses.*
+
