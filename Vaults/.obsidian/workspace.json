@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFT/Meta comps.md",
+                "file": "aignosi/anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta comps"
+              "title": "anotações"
             }
           }
         ],
@@ -198,10 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769f9dbb9c508c74",
+  "active": "7eb15dcfaeaf9be8",
   "lastOpenFiles": [
-    "aignosi/anotações.md",
     "Untitled.base",
+    "aignosi/anotações.md",
     "Untitled.md",
     "1º Routine.md",
     "Untitled",

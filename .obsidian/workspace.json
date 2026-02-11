@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotações.md",
+                "file": "Vaults/aignosi/anotações.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff8ab4892161e2b3",
+  "active": "6c54ebbea9bba325",
   "lastOpenFiles": [
     "Vaults/aignosi/mlops-bff/Guia de Execução Local no Windows.md",
-    "anotações.md",
+    "Vaults/aignosi/anotações.md",
     "Vaults/aignosi/mlops-bff/Exemplo de Request para Postman - Endpoint run-model.md",
     "a.md",
     "Vaults/aignosi/sientia",
