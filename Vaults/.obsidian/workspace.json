@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a28d8f060e903af4",
+            "id": "b18878342eab0f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Book list.md",
+                "file": "aignosi/MLOps/model-manager/Model card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book list"
+              "title": "Model card"
+            }
+          },
+          {
+            "id": "5cc948266ed9479d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LearningProcess/Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Framework"
+            }
+          },
+          {
+            "id": "7eb15dcfaeaf9be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TFT/Meta comps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta comps"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 250.5
   },
   "right": {
     "id": "fa9ba06a5fd8bd30",
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EngSoftwareVault/10-DevOps/Integração Contínua (CI).md",
+                "file": "aignosi/MODEL_MANAGER_MIGRATION_PLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Integração Contínua (CI)"
+              "title": "Backlinks for MODEL_MANAGER_MIGRATION_PLAN"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EngSoftwareVault/10-DevOps/Integração Contínua (CI).md",
+                "file": "1º Routine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Integração Contínua (CI)"
+              "title": "Outgoing links from 1º Routine"
             }
           },
           {
@@ -151,12 +180,12 @@
               "title": "Outline of 01-introducao"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,53 +198,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a28d8f060e903af4",
+  "active": "769f9dbb9c508c74",
   "lastOpenFiles": [
-    "InfraVault/01-containers/Docker-Compose.md",
-    "InfraVault/01-containers/Docker-Container.md",
-    "InfraVault/01-containers/README.md",
-    "InfraVault/01-containers/Dockerfile-Basico.md",
-    "Software/imgs/108651385-67ccda80-74a0-11eb-9390-80df6ea6fd8c.png",
-    "InfraVault/01-containers/Docker-Introducao.md",
-    "InfraVault/01-containers/Docker-Multi-Stage.md",
-    "InfraVault/01-containers/Docker-Security.md",
-    "InfraVault/01-containers/Docker-Server.md",
-    "InfraVault/01-containers/Docker-Volumes.md",
-    "InfraVault/01-containers/Docker-Images.md",
-    "Software/Docker.md",
-    "Software/DockerFile.md",
-    "Software/Container Docker.md",
+    "aignosi/anotações.md",
+    "Untitled.base",
+    "Untitled.md",
+    "1º Routine.md",
+    "Untitled",
+    "TFT/Meta comps.md",
+    "TFT",
     "Livros/Book list.md",
-    "TecQualVault/04-Lacunas-da-Qualidade/README.md",
-    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna do Projeto e dos Padrões de Serviço.md",
-    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna do Desempenho do Serviço.md",
-    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna da Comunicação.md",
-    "TecQualVault/04-Lacunas-da-Qualidade/Lacuna da Compreensão do Cliente.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/Zona de Tolerância.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/Satisfação versus qualidade do serviço.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/README.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/Fatores que influenciam expectativas de serviço.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/Dinâmica da Zona de Tolerância.md",
-    "TecQualVault/03-Avaliacao-dos-Servicos/Dimensões da qualidade para os serviços.md",
-    "TecQualVault/02-Servico-e-Caracteristicas/README.md",
+    "aignosi/MLOps/Model Monitoring/[FE] Planejamento.md",
+    "aignosi/MLOps/Model Monitoring/[BE] Planejamento.md",
+    "aignosi/MLOps/Model Monitoring/[Streamlit] Documentação - Model Monitoring.md",
+    "aignosi/MLops Api Updates e REST API updates.md",
+    "aignosi/Dúvidas a serem tiradas.md",
+    "LearningProcess/Framework.md",
+    "Pasted image 20260121115150.png",
+    "TecQualVault/02-Servico-e-Caracteristicas/Características dos Serviços.md",
+    "TecQualVault/02-Servico-e-Caracteristicas/Definição de Serviço como benefícios sem propriedade.md",
+    "TecQualVault/01-Conceitos-Iniciais/Visões sobre a Qualidade.md",
+    "TecQualVault/01-Conceitos-Iniciais/README.md",
+    "TecQualVault/index.md",
+    "aignosi/MLOps/Model Manager/Model card.md",
+    "aignosi/MLOps/Model Manager/Compare Experiments.md",
+    "aignosi/MLOps/Model Monitoring",
+    "aignosi/MLOps/Model Manager/Create experiment.md",
+    "aignosi/MLOps/Model Manager/Download artifacts.md",
+    "aignosi/MLOps/Model Manager/Model validation.md",
+    "LearningProcess",
+    "aignosi/MODEL_MANAGER_MIGRATION_PLAN.md",
+    "aignosi/MLOps/model-manager/Untitled",
+    "aignosi/MLOps/Model Manager",
+    "aignosi/MLOps",
+    "FilosofiaVault/02-existencialismo/README.md",
+    "FilosofiaVault/02-existencialismo/Camus/Camus.md",
+    "FilosofiaVault/02-existencialismo/Camus",
+    "FilosofiaVault/02-existencialismo/Camus/O mito de Sísifo.md",
+    "Software/imgs/108651385-67ccda80-74a0-11eb-9390-80df6ea6fd8c.png",
     "InfraVault/01-containers/images",
     "InfraVault/01-containers/images/Pasted image 20251007234014.png",
-    "Livros",
     "TecQualVault/images/Pasted image 20250622205811.png",
-    "InfraVault/concepts",
-    "InfraVault/bib/Docker up and running.pdf",
-    "InfraVault/bib",
-    "InfraVault/Nova pasta",
-    "FilosofiaVault/10-filosofia-continental",
-    "FilosofiaVault/09-filosofia-analitica",
-    "FilosofiaVault/08-filosofia-contemporanea",
-    "FilosofiaVault/07-estetica",
     "TecQualVault/17-Custos-da-Qualidade/Pasted image 20250622205428.png",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185447.png",
     "TecQualVault/14-Aceitação-por-Amostragem/Pasted image 20250622185949.png",
     "TecQualVault/13-Algumas-Ferramentas-da-Qualidade/Pasted image 20250622180536.png",
     "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200945.png",
-    "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200934.png",
-    "TecQualVault/15-Cartas-de-Controle-Estatístico-de-Processo/Pasted image 20250622194147.png"
+    "TecQualVault/16-Planejamento-da-Qualidade/Pasted image 20250622200934.png"
   ]
 }
